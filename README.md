@@ -23,7 +23,7 @@ At the moment these have not been corrected.
 Contributions
 -------------
 
-The somewhat cleaned dataset is available as Wellcome-APCs.tsv in the repository. Further contributions to the
+The somewhat cleaned dataset is available at wellcome/Wellcome-APCs.tsv in the repository. Further contributions to the
 dataset are welcome via a pull request. Obvious enhancements would be to obtain DOIs for the papers from 
 Crossref search API and then to use that to clean up the bibliographic information. We could also check the
 licenses and/or availability of papers in this dataset.
